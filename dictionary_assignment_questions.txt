@@ -1,0 +1,13 @@
+1.	Create a dictionary with character and count pair
+s = 'abracadabraca'
+2.	Create a dictionary with character and count pair only if the character is a vowel
+s = “hello world”
+3.	Create a list with the sum of items of two lists corresponding to their indices
+a = [1, 2, 3, 4]
+b = [5, 6, 7, 8]
+4.	Write a program to create a dictionary to get only the duplicate items and the number of times the item is repeated in the list.
+>>> names = ['apple', 'google', 'apple', 'yahoo', 'yahoo', 'facebook', 'apple', 'gmail', 'gmail', 'gmail', 'gmail']
+5.	Write a program to get the indices of each item in the below list
+names = ['apple', 'google', 'apple', 'yahoo', 'yahoo', 'google', 'gmail', 'gmail', 'gmail']
+output should be - {'apple': [0, 2], 'google': [1, 5], 'yahoo': [3, 4], 'gmail': [6, 7, 8]}
+
